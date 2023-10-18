@@ -1,0 +1,61 @@
+.bouton {
+	border-radius: 10px;
+	width: 158px;
+	height: 60px;
+	margin: 10px;
+	background-color: #3dbbcf;
+	color: white;
+	border-color: none;
+	cursor: pointer;
+	transition: color 0.3s ease;
+}
+
+.bouton:hover {
+	color: #cf82ec
+}
+
+.cadre {
+	background: white;
+    border: 0 none;
+    border-radius: 15px;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+    padding: 20px 30px;
+    box-sizing: border-box;
+    width: 80%;
+    margin: 0 10%;
+   
+	
+
+}
+
+.general {
+	font-family: "Montserrat", sans-serif; 
+	text-align: center;
+    position: relative;
+    margin-top: 30px;
+    background: linear-gradient(rgba(196, 102, 0, 0.6), rgba(155, 89, 182, 0.6));
+}
+
+.titre{
+	font-size: 18px;
+    text-transform: uppercase;
+    color: #2C3E50;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.bouton{
+	width: 100px;
+    background: #ee0979;
+    font-weight: bold;
+    color: white;
+    border: 0 none;
+    border-radius: 25px;
+    cursor: pointer;
+    padding: 10px 5px;
+    margin: 10px 5px;
+}
+
+.rep{
+	color: blue;
+}

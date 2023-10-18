@@ -1,0 +1,15 @@
+.bouton {
+	border-radius: 10px;
+	width: 158px;
+	height: 60px;
+	margin: 10px;
+	background-color: #3dbbcf;
+	color: white;
+	border-color: none;
+	cursor: pointer;
+	transition: color 0.3s ease;
+}
+
+.bouton:hover {
+	color: #cf82ec
+}

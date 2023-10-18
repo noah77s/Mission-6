@@ -1,0 +1,30 @@
+body
+{
+	background-color: lightblue;
+	text-align: center;
+	color: black;
+
+}
+
+img
+{
+	border-radius: 30px;
+}
+
+.joao
+{
+	padding-right: 25%;
+	text-align: center;
+
+}
+
+.ps5 
+{
+	padding-left: 25%;
+	text-align: center;
+}
+
+.iframe
+{		
+	border-radius: 30px;
+}
