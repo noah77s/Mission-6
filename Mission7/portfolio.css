@@ -123,4 +123,5 @@ footer {
     border-radius: 10px;
     background-color: #333; /* Couleur de fond foncée pour le titre */
     color: white; /* Couleur du texte du titre */
+    padding: 20px;
 }
