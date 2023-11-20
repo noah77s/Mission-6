@@ -116,3 +116,11 @@ div#menu ul ul li a:hover {
 div#menu ul ul ul li a:hover {
     border-left-color: #0000FF;
 }
+
+footer {
+    border: solid;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #333; /* Couleur de fond foncée pour le titre */
+    color: white; /* Couleur du texte du titre */
+}
